@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Matroskins12
+- 👦  I’m interested in making code, playing chess and learning english
+- 👨‍💻 I’m currently learning React.js
+- 📧 You can write to me: volol862@gmail.com
+- 🎮 You can play chess with me on lichess.org: Matroskins 
